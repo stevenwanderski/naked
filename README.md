@@ -4,7 +4,7 @@ Naked is a base Drupal 7 theme that attempts to remove the cruel markup that Dru
 This theme does a few things out of the box:
 
 1. Removes all system CSS stylesheets. This lessens your battle with Drupal when creating your custom styles.
-2. Includes templates that remove extraneous markup for such core elements as regions, blocks, and pages.
+2. Includes templates that remove extraneous markup for such core elements as nodes, regions, blocks, and pages.
 3. Includes a `$main_menu` variable that contains the markup for main menu. This can be placed in the `page.tpl.php` template.
 4. Includes the famous Meyer CSS reset stylesheet ([http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/))
 5. Includes a base JS file that includes the proper setup for a standard jQuery `.ready()` call.

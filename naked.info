@@ -1,0 +1,8 @@
+name = Naked
+description = A base theme that removes all of Drupal's garbage markup.
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/application.css
+scripts[] = js/application.js
